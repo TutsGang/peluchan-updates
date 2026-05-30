@@ -1,7 +1,7 @@
   {
     "version": "0.1.1",
     "url": "https://github.com/TutsGang/peluchan-updates/releases/download/v0.1.1/peluchan-cpanel.zip",
-    "sha256": "fb1d001e1c3939a926c0005605e937ae445e34487e6a566147900d2f6ac363da",
+    "sha256": "7835b66a8bd52af7069185793f757545e0ee8ad709caf7fb05d45dc48dec00a6",
     "date": "2026-05-30",
     "changelog": "- Recuperacion de contrasena por email | Endpoint forgot-password y reset-password | Tabla
   password_resets"
